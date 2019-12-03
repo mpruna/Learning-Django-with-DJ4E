@@ -14,6 +14,7 @@ MOOC to Learn Django Web site programming
 1) Install python --v 3.6.0
 
 **Python 3.6.0** found [here](https://www.python.org/downloads/release/python-360/)
+
 **Older Python Versions** available on [Python Software Foundation](https://www.python.org/downloads/)
 
 Check available python installed versions:
