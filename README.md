@@ -17,6 +17,8 @@ MOOC to Learn Django Web site programming
 **Older Python Versions** available on [Python Software Foundation](https://www.python.org/downloads/)
 
 Check available python installed versions:
+Ref:
+* https://stackoverflow.com/questions/53312590/how-to-check-all-the-installed-python-versions-on-windows
 
 ```
 py -0p
